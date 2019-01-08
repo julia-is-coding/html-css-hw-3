@@ -5,6 +5,7 @@
 
 body {
     background-color: rgb(38, 38, 39);
+    color: rgb(38, 38, 39);
 }
 
 table {
@@ -20,7 +21,6 @@ table {
 
 td {
     padding: 10px;
-    color: rgb(38, 38, 39);
 }
 
 .green {
