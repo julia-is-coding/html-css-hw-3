@@ -17,12 +17,6 @@ table {
 
 .red {
     background-color: #ea6153; 
-    /* color: whitesmoke; */
-}
-
-.font {
-    font-weight: 700;
-    color: whitesmoke;
 }
 
 td {
@@ -31,12 +25,15 @@ td {
 
 .green {
     background-color: #27ae60;
-    /* color: whitesmoke; */
 }
 
 .blue {
     background-color: #2980b9;
-    /* color: whitesmoke; */
+}
+
+.red, .green, .blue {
+    font-weight: 700;
+    color: whitesmoke;
 }
 
 .light {
